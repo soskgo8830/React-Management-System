@@ -1,7 +1,6 @@
 ## Management System
 
 본 프로젝트는 React로 만들어진 고객 관리 시스템(Management System)입니다.
-[2일차 완료]
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
